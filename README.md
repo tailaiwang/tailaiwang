@@ -1,5 +1,5 @@
 
-# Hi There 👋
+# Hey! 👋
 
 I'm Tailai (he/him), a Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. I'm currently searching for Winter 2021 (January-April) Internships in SWE or Data. I'd also be interested in hearing about any cool projects you have in mind!
 
