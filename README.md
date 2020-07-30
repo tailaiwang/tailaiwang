@@ -1,30 +1,6 @@
 
 # Hi There 👋
 
-I'm Tailai, a Computer Science and Business Administration Double Degree student at the University of Waterloo.
-
-
-
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (Twitter)
-[2.1]: http://tailaiwang.me/assets/images/iconfinder_strava_4691462.png (GitHub)
-
-
-
-
-
-<!-- links to social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/tailaiwang
-[2]: http://www.github.com/tailaiwang
-
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-
 
 
 
