@@ -18,7 +18,7 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
 - My takes on the upcoming NBA free agency 🏀
 - The current backpacking daydream: [The O Circuit (Torres Del Paine, Chilean Patagonia)](https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park)
 
-### 📫 How to reach me: ...
+### 📫 Find me on ...
 
 <!-- icons  -->
 
@@ -43,7 +43,6 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
   [![alt text][3.1]][3]
   [![alt text][4.1]][4]
   [![alt text][5.1]][5]
-- [tailaiwang01@gmail.com](mailto:tailaiwang01@gmail.com)
 
 
 
