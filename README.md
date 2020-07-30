@@ -1,22 +1,53 @@
 
 # Hi There 👋
 
+I'm Tailai (he/him), a Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. 
+
+I'm currently searching for Winter 2021 (January-April) Internships in SWE or Data. I'd also be interested in hearing about any cool projects you have in mind!
+
+## 🔭 I’m working on ...
+- Interning for the Production Engineering team @ [Questrade](https://www.questrade.com/home) as a Business Tech Analyst 💲
+- Creating [knct](https://knct.me/signup) as an SWE, a community platform for students to share passions and experiences 🐋
+- Bringing [The GoldenHack](https://www.thegoldenhack.ca/) to life, Canada's first ever Business-Entrepreneurship hackathon 📈
+
+## 🌱 I’m learning ...
+- Polaris for React.js components and general UI
+- Socket IO for chat room optimization
+- How to improve my [running economy](https://www.strava.com/athletes/54716391): [![alt text][6.1]][6]
+
+## 💬 Ask me about ...
+- My experiences in event organization and hackathons!
+- My takes on the upcoming NBA free agency 🏀
+- The current backpacking daydream: [The O Circuit (Torres Del Paine, Chilean Patagonia)](https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park)
+
+##  📫 How to reach me: ...
+
+<!-- icons  -->
+
+[1.1]: http://tailaiwang.me/assets/images/icon_twitter.png (Twitter)
+[2.1]: http://tailaiwang.me/assets/images/icon_github.png (GitHub)
+[3.1]: http://tailaiwang.me/assets/images/icon_web.png (Portfolio Website)
+[4.1]: http://tailaiwang.me/assets/images/icon_linkedin.png (LinkedIn)
+[5.1]: http://tailaiwang.me/assets/images/icon_devpost.png (Devpost)
+[6.1]:  http://tailaiwang.me/assets/images/icon_strava.png (Strava)
+
+<!-- links to social media accounts -->
+
+[1]: http://www.twitter.com/tailaiwang
+[2]: http://www.github.com/tailaiwang
+[3]: http://tailaiwang.me/
+[4]: https://www.linkedin.com/in/tailai-wang/
+[5]: https://devpost.com/tailaiwang
+[6]: https://www.strava.com/athletes/54716391
+
+- [![alt text][1.1]][1]
+  [![alt text][2.1]][2]
+  [![alt text][3.1]][3]
+  [![alt text][4.1]][4]
+  [![alt text][5.1]][5]
+- [tailaiwang01@gmail.com](mailto:tailaiwang01@gmail.com)
 
 
 
 
 
-<!--
-**tailaiwang/tailaiwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
