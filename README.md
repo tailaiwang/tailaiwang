@@ -4,9 +4,13 @@
 I'm Tailai (he/him), a Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. I'm currently searching for Winter 2021 (January-April) Internships in SWE or Data. I'd also be interested in hearing about any cool projects you have in mind!
 
 ### 🔭 I’m working on ...
-- Interning for the Production Engineering team @ [Questrade](https://www.questrade.com/home) as a Business Tech Analyst 💲
+- Ryde, a project app to schedule and share group cycling/running workouts amongst friends 🏃
 - Creating [knct](https://knct.me/signup) as an SWE, a community platform for students to share passions and experiences 🐋
 - Bringing [The GoldenHack](https://www.thegoldenhack.ca/) to life, Canada's first ever Business-Entrepreneurship hackathon 📈
+
+### 🕰️ Previously ...
+- Interned for the Production Engineering team @ [Questrade](https://www.questrade.com/home) as a Business Tech Analyst (SRE/DB Work) 💲
+- Helped create [MomsOverMatter](https://momsovermatter.ca/), a free mental health app for new mothers 👶
 
 ### 🌱 I’m learning ...
 - Polaris for React.js components and general UI
