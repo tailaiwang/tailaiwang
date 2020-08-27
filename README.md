@@ -8,9 +8,9 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
 - Creating [knct](https://knct.me/signup) as an SWE, a community platform for students to share passions and experiences 🐋
 - Bringing [The GoldenHack](https://www.thegoldenhack.ca/) to life, Canada's first ever Business-Entrepreneurship hackathon 📈
 
-### 🕰️ Previously ...
-- Interned for the Production Engineering team @ [Questrade](https://www.questrade.com/home) as a Business Tech Analyst (SRE/DB Work) 💲
-- Helped create [MomsOverMatter](https://momsovermatter.ca/), a free mental health app for new mothers 👶
+### 🕰️ I was previously ...
+- Interning for the Production Engineering team @ [Questrade](https://www.questrade.com/home) as a Business Tech Analyst (SRE/DB Work) 💲
+- Developing [MomsOverMatter](https://momsovermatter.ca/), a free mental health app for new mothers 👶
 
 ### 🌱 I’m learning ...
 - Polaris for React.js components and general UI
