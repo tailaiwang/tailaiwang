@@ -11,6 +11,7 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
 ### 🕰️ I was previously ...
 - Interning for the Production Engineering team @ [Questrade](https://www.questrade.com/home) as a Business Tech Analyst (SRE/DB Work) 💲
 - Developing [MomsOverMatter](https://momsovermatter.ca/), a free mental health app for new mothers 👶
+- Organizing MasseyHacks, Canada's first ever high school hackathon (Mustang for life ❤️)
 
 ### 🌱 I’m learning ...
 - Polaris for React.js components and general UI
