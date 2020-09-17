@@ -5,7 +5,7 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
 
 ### 🔭 I’m working on ...
 - Ryde, a project app to schedule and share group cycling/running workouts amongst friends 🏃
-- Creating [knct](https://knct.me/signup) as an SWE, a community platform for students to share passions and experiences 🐋
+- Creating [knct](https://knct.world) as an SWE, a community platform for students to share passions and experiences 🐋
 - Bringing [The GoldenHack](https://www.thegoldenhack.ca/) to life, Canada's first ever Business-Entrepreneurship hackathon 📈
 
 ### 🕰️ I was previously ...
