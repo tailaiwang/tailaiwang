@@ -4,7 +4,7 @@
 I'm Tailai (he/him), a Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. I'm currently searching for Winter 2021 (January-April) Internships in SWE or Data. I'd also be interested in hearing about any cool projects you have in mind!
 
 ### 🔭 I’m working on ...
-- Competing for the JDCC Laurier Case Team as a Digital Strategy academic delegate 📚
+- Competing for the [JDCC Laurier](https://www.instagram.com/jdcclaurier/) Case Team as a Digital Strategy academic delegate 📚
 - Ryde, a project app to schedule and share group cycling/running workouts amongst friends 🏃
 - Creating [knct](https://knct.world) as an SWE, a community platform for students to share passions and experiences 🐋
 
