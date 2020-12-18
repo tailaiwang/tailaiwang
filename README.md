@@ -21,7 +21,7 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
 
 ### 💬 Ask me about ...
 - My experiences in event organization and hackathons!
-- My takes on the upcoming NBA free agency 🏀 (Giannis -> Toronto...?)
+- My takes on the upcoming NBA free agency 🏀 (~~Giannis -> Toronto...?~~ big sad)
 - The current backpacking daydream: [The O Circuit (Torres Del Paine, Chilean Patagonia)](https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park)
 
 ### 📫 Find me on ...
