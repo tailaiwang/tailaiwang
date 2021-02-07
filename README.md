@@ -4,10 +4,10 @@
 I'm Tailai (he/him), a Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. I'm always interested in hearing about any cool projects you have in mind, feel free to reach me below!
 
 ### 🔭 I’m working on ...
+- Stealth Mode 🤫
 - Operations for [The GoldenHack](https://www.thegoldenhack.ca/), WLU's Business-Entrepreneurship hackathon 📈
 - Creating [knct](https://knct.world) as an SWE, a community platform for students to share passions and experiences 🐋
 - Competing for the [JDCC Laurier](https://www.instagram.com/jdcclaurier/) Case Team as a Digital Strategy academic delegate 📚
-- Ryde, a project app to schedule and share group cycling/running workouts amongst friends 🏃
 
 ### 🕰️ I was previously ...
 - Interning for the Production Engineering team @[Questrade](https://www.questrade.com/home) as a Business Tech Analyst (SRE/DB Work) 💲
