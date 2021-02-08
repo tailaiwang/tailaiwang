@@ -16,7 +16,7 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
 
 ### 🌱 I’m learning ...
 - Polaris for React.js components and general UI
-- Socket IO for chat room optimization
+- iOS Development with Swift and UIKit
 - How to improve my [running economy](https://www.strava.com/athletes/54716391): [![alt text][6.1]][6]
 
 ### 💬 Ask me about ...
