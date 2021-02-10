@@ -10,7 +10,7 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
 
 ### 🕰️ I was previously ...
 - Creating [knct](https://knct.world) as an SWE, a community platform for students to share passions and experiences 🐋
-- Interning for the Production Engineering team @[Questrade](https://www.questrade.com/home) as a Business Tech Analyst (SRE/DB Work) 💲
+- Interning for the Production Engineering team @[Questrade](https://www.questrade.com/home) 💲
 - Developing [MomsOverMatter](https://momsovermatter.ca/), a free mental health app for new mothers 👶
 - Organizing [MasseyHacks](https://masseyhacks.ca/), Canada's first ever high school hackathon (Mustang for life ❤️)
 
