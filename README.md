@@ -9,6 +9,7 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
 - Competing for the [JDCC Laurier](https://www.instagram.com/jdcclaurier/) Case Team as a Digital Strategy academic delegate 📚
 
 ### 🕰️ I was previously ...
+- Prototyping bluetooth proximity tools @[Sonova Innovation Lab](https://www.sonova.com/en/sonova-opens-innovation-lab-communitech) ⚕️
 - Creating [knct](https://knct.world) as an SWE, a community platform for students to share passions and experiences 🐋
 - Interning for the Production Engineering team @[Questrade](https://www.questrade.com/home) 💲
 - Developing [MomsOverMatter](https://momsovermatter.ca/), a free mental health app for new mothers 👶
