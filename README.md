@@ -4,20 +4,21 @@
 I'm Tailai (he/him), a Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. I'm always interested in hearing about any cool projects you have in mind, feel free to reach me below!
 
 ### 🔭 I’m working on ...
+- Interning for the iOS Engineering Team @ Tile
 - Something on Stealth Mode 🤫
-- Operations for [The GoldenHack](https://www.thegoldenhack.ca/), WLU's Business-Entrepreneurship hackathon 📈
-- Competing for the [JDCC Laurier](https://www.instagram.com/jdcclaurier/) Case Team as a Digital Strategy academic delegate 📚
+- Competing for the [JDCC Laurier](https://www.instagram.com/jdcclaurier/) Case Team as Academic Captain and Digital Strategy delegate 📚
 
 ### 🕰️ I was previously ...
+- Putting together operations for [The GoldenHack](https://www.thegoldenhack.ca/), WLU's Business-Entrepreneurship hackathon 📈
 - Prototyping bluetooth proximity tools @[Sonova Innovation Lab](https://www.sonova.com/en/sonova-opens-innovation-lab-communitech) ⚕️
-- Creating [knct](https://knct.world) as an SWE, a community platform for students to share passions and experiences 🐋
 - Interning for the Production Engineering team @[Questrade](https://www.questrade.com/home) 💲
 - Developing [MomsOverMatter](https://momsovermatter.ca/), a free mental health app for new mothers 👶
 - Organizing [MasseyHacks](https://masseyhacks.ca/), Canada's first ever high school hackathon (Mustang for life ❤️)
 
 ### 🌱 I’m learning ...
 - Polaris for React.js components and general UI
-- iOS Development with Swift and UIKit
+- iOS Development with SwiftUI
+- The basics of "powerbuilding" (powerlifting & bodybuilding) 
 - How to improve my [running economy](https://www.strava.com/athletes/54716391): [![alt text][6.1]][6]
 
 ### 💬 Ask me about ...
