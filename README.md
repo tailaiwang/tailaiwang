@@ -5,7 +5,7 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
 
 ### 🔭 Currently ...
 - Interning for the iOS Engineering Team @ Tile
-- Organizing @hackthenorth!
+- Organizing Logistics @[Hack the North](https://hackthenorth.com/)!
 - Something on Stealth Mode 🤫
 
 ### 🕰️ Previously ...
