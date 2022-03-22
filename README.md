@@ -4,7 +4,7 @@
 I'm Tailai (he/him), a Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. 
 
 ### 🔭 Currently ...
-- Interning for the iOS Engineering Team @ Tile
+- Interning for the iOS Platform Team @ Tile
 - Organizing Logistics @[Hack the North](https://hackthenorth.com/)!
 - Something on Stealth Mode 🤫
 
