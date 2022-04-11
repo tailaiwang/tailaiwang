@@ -6,15 +6,15 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
 ### 🔭 Currently ...
 - Interning for the iOS Platform Team @ Tile
 - Organizing Logistics @[Hack the North](https://hackthenorth.com/)!
-- Something on Stealth Mode 🤫
+- Helping consumers shop sustainably @[Clove](https://clove.eco/)
 
 ### 🕰️ Previously ...
 - Competing for the [JDCC Laurier](https://www.instagram.com/jdcclaurier/) Case Team as Academic Captain and Digital Strategy delegate 📚
 - Putting together operations for [The GoldenHack](https://www.thegoldenhack.ca/), WLU's Business-Entrepreneurship hackathon 📈
 - Prototyping bluetooth proximity tools @[Sonova Innovation Lab](https://www.sonova.com/en/sonova-opens-innovation-lab-communitech) ⚕️
 - Interning for the Production Engineering team @[Questrade](https://www.questrade.com/home) 💲
-- Developing [MomsOverMatter](https://momsovermatter.ca/), a free mental health app for new mothers 👶
 - Organizing [MasseyHacks](https://masseyhacks.ca/), Canada's first ever high school hackathon (Mustang for life ❤️)
+
 
 
 ### 📫 Find me on ...
