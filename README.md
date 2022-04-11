@@ -26,7 +26,6 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
 [3.1]: http://tailaiwang.me/assets/images/icon_web.png (Portfolio Website)
 [4.1]: http://tailaiwang.me/assets/images/icon_linkedin.png (LinkedIn)
 [5.1]: http://tailaiwang.me/assets/images/icon_devpost.png (Devpost)
-[6.1]:  http://tailaiwang.me/assets/images/icon_strava.png (Strava)
 
 <!-- links to social media accounts -->
 
@@ -35,7 +34,6 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
 [3]: http://tailaiwang.me/
 [4]: https://www.linkedin.com/in/tailai-wang/
 [5]: https://devpost.com/tailaiwang
-[6]: https://www.strava.com/athletes/54716391
 
 - [![alt text][1.1]][1]
   [![alt text][2.1]][2]
