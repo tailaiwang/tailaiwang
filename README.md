@@ -8,7 +8,7 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
 - Training to compete internationally for @[Laurier Case Team](https://www.lauriercaseteam.ca/)  📚
 
 ### 🕰️ Previously ...
-- Interning for the iOS Platform Team @ Tile
+- Interning for the iOS Platform Team @[Tile](https://www.thetileapp.com/)
 - Helping consumers shop sustainably @[Clove](https://clove.eco/)
 - Putting together operations for [The GoldenHack](https://www.thegoldenhack.ca/), WLU's Business-Entrepreneurship hackathon 📈
 - Prototyping bluetooth proximity tools @[Sonova Innovation Lab](https://www.sonova.com/en/sonova-opens-innovation-lab-communitech) ⚕️
