@@ -1,7 +1,7 @@
 
 # Hey! 👋
 
-I'm Tailai (he/him), a Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. 
+I'm Tailai (he/him), a 4th year Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. 
 
 ### 🔭 Currently ...
 - Organizing Logistics @[Hack the North](https://hackthenorth.com/)!
@@ -15,7 +15,11 @@ I'm Tailai (he/him), a Computer Science and Business Administration Double Degre
 - Interning for the Production Engineering team @[Questrade](https://www.questrade.com/home) 💲
 - Organizing [MasseyHacks](https://masseyhacks.ca/), Canada's first ever high school hackathon (Mustang for life ❤️)
 
-
+### 🙈 Ask me about ...
+- Powerbuilding & Fitness
+- My current hip-hop taste
+- Takes on the state of hackathons and case competitions
+- ~~How my raptors are doing~~
 
 ### 📫 Find me on ...
 
