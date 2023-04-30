@@ -4,12 +4,12 @@
 I'm Tailai (he/him), a 4th year Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. 
 
 ### 🔭 Currently ...
-- Wrangling the Big[gest] Data @[Palantir](https://www.palantir.com/)
 - Advising the Logistics Team @[Hack the North](https://hackthenorth.com/)!
 - Competing internationally for @[Laurier Case Team](https://www.lauriercaseteam.ca/)  📚
 
 ### 🕰️ Previously ...
-- Interning for the iOS Platform Team @[Tile](https://www.thetileapp.com/)
+- Wrangling the Big[gest] Data @[Palantir](https://www.palantir.com/)
+- Interning on the iOS Platform Team @[Tile](https://www.thetileapp.com/)
 - Helping consumers shop sustainably @[Clove](https://clove.eco/)
 - Putting together operations for [The GoldenHack](https://www.thegoldenhack.ca/), WLU's Business-Entrepreneurship hackathon 📈
 - Prototyping bluetooth proximity tools @[Sonova Innovation Lab](https://www.sonova.com/en/sonova-opens-innovation-lab-communitech) ⚕️
