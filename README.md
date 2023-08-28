@@ -8,6 +8,7 @@ I'm Tailai (he/him), a 4th year Computer Science and Business Administration Dou
 - Competing internationally for @[Laurier Case Team](https://www.lauriercaseteam.ca/)  📚
 
 ### 🕰️ Previously ...
+- Building out some ML Infrastructure @[IMC Trading](https://www.imc.com/us/)
 - Wrangling the Big[gest] Data @[Palantir](https://www.palantir.com/)
 - Interning on the iOS Platform Team @[Tile](https://www.thetileapp.com/)
 - Helping consumers shop sustainably @[Clove](https://clove.eco/)
