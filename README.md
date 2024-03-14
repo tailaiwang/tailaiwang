@@ -1,13 +1,14 @@
 
 # Hey! 👋
 
-I'm Tailai (he/him), a 4th year Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. 
+I'm Tailai (he/him), a 5th year Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. 
 
 ### 🔭 Currently ...
-- Advising the Logistics Team @[Hack the North](https://hackthenorth.com/)!
-- Competing internationally for @[Laurier Case Team](https://www.lauriercaseteam.ca/)  📚
+- Trying to graduate lol
 
 ### 🕰️ Previously ...
+- Advising the Logistics Team @[Hack the North](https://hackthenorth.com/)!
+- Competing internationally for @[Laurier Case Team](https://www.lauriercaseteam.ca/)  📚
 - Building out some ML Infrastructure @[IMC Trading](https://www.imc.com/us/)
 - Wrangling the Big[gest] Data @[Palantir](https://www.palantir.com/)
 - Interning on the iOS Platform Team @[Tile](https://www.thetileapp.com/)
