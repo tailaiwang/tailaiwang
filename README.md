@@ -1,10 +1,10 @@
 
 # Hey! 👋
 
-I'm Tailai (he/him), a 5th year Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. 
+I'm Tailai (he/him), a recent graduate from the Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. 
 
 ### 🔭 Currently ...
-- Trying to graduate lol
+- Engineering@[Palantir](https://www.palantir.com/)
 
 ### 🕰️ Previously ...
 - Advising the Logistics Team @[Hack the North](https://hackthenorth.com/)!
