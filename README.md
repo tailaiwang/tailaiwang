@@ -4,9 +4,10 @@
 I'm Tailai (he/him), a recent graduate from the Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. 
 
 ### 🔭 Currently ...
-- Engineering@[Palantir](https://www.palantir.com/)
+- Working on something new!
 
 ### 🕰️ Previously ...
+- Engineering@[Palantir](https://www.palantir.com/)
 - Advising the Logistics Team @[Hack the North](https://hackthenorth.com/)!
 - Competing internationally for @[Laurier Case Team](https://www.lauriercaseteam.ca/)  📚
 - Building out some ML Infrastructure @[IMC Trading](https://www.imc.com/us/)
