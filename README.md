@@ -1,7 +1,5 @@
 
-# Hey! 👋
-
-I'm Tailai, 
+# Hey, I'm Tailai 👋
 
 ### 🔭 Currently ...
 - Working on something new!
