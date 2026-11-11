@@ -1,7 +1,7 @@
 
 # Hey! 👋
 
-I'm Tailai (he/him), a recent graduate from the Computer Science and Business Administration Double Degree student at the University of Waterloo. I'm a software developer, sports & outdoors lover, and a sucker for hot cheetos. 
+I'm Tailai, 
 
 ### 🔭 Currently ...
 - Working on something new!
@@ -24,31 +24,6 @@ I'm Tailai (he/him), a recent graduate from the Computer Science and Business Ad
 - My current hip-hop taste
 - Takes on the state of hackathons and case competitions
 - ~~How my raptors are doing~~
-
-### 📫 Find me on ...
-
-<!-- icons  -->
-
-[1.1]: http://tailaiwang.me/assets/images/icon_twitter.png (Twitter)
-[2.1]: http://tailaiwang.me/assets/images/icon_github.png (GitHub)
-[3.1]: http://tailaiwang.me/assets/images/icon_web.png (Portfolio Website)
-[4.1]: http://tailaiwang.me/assets/images/icon_linkedin.png (LinkedIn)
-[5.1]: http://tailaiwang.me/assets/images/icon_devpost.png (Devpost)
-
-<!-- links to social media accounts -->
-
-[1]: http://www.twitter.com/tailaiwang
-[2]: http://www.github.com/tailaiwang
-[3]: http://tailaiwang.me/
-[4]: https://www.linkedin.com/in/tailai-wang/
-[5]: https://devpost.com/tailaiwang
-
-- [![alt text][1.1]][1]
-  [![alt text][2.1]][2]
-  [![alt text][3.1]][3]
-  [![alt text][4.1]][4]
-  [![alt text][5.1]][5]
-
 
 
 
